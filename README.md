@@ -1,5 +1,5 @@
 # Manipulator-Mechatronics
-This is repository meant to showcase the statics, dynamics, and kinematics of a 2D robotic manipulator
+This is repository showcases the statics, dynamics, and kinematics of a 2D robotic manipulator
 
 This is the position of Joint 1 vs Time
 

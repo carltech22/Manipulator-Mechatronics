@@ -10,9 +10,11 @@ This is the position of Joint 2 vs Time
 
 ![Q4_Theta2](https://user-images.githubusercontent.com/121901181/228431723-f153676e-acd9-4552-bc5e-1c42826e21b9.jpg)
 
-This is the X and Y Position of the robtot's End-Effector
+This is the X-position of the robot's end-effector
 
 ![Q4_X(t)](https://user-images.githubusercontent.com/121901181/229015370-22af2d7b-42b6-4fab-b200-bbb16fcea3dc.jpg)
+
+This is the Y-position of the robot's end-effector
 
 ![Q4_Y(t)](https://user-images.githubusercontent.com/121901181/229015377-0ca50144-8a05-4c01-8a1f-b7c7d1867fc4.jpg)
 

@@ -22,6 +22,6 @@ This is the Y-position of the robot's end-effector
 
 ![Q4_Y(t)](https://user-images.githubusercontent.com/121901181/229015377-0ca50144-8a05-4c01-8a1f-b7c7d1867fc4.jpg)
 
-Below is an animation of the robotic arm maintaning a linear motion which is essential many industrial applicaitons
+Below is an animation of the robotic arm maintaning a linear motion which is essential for many industrial applicaitons.
 
 ![Keep_Box_Steady](https://user-images.githubusercontent.com/121901181/229310656-9e99041b-a8ef-4a6d-bf52-8f7beecccbf4.gif)
